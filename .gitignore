@@ -1,0 +1,37 @@
+# Compiled objects
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Executables
+*.exe
+*.out
+
+# Build artifacts
+*.d
+*.su
+*.dep
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled binaries (no extension on Unix)
+a
+a.out
+main
+/solution
+
+# Debug files
+*.dSYM/
+*.debug
+*.map
